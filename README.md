@@ -14,7 +14,7 @@ Thak u
 
 ## my skillset
 * ML
-  -supervised
-  -unsupervised
+  - supervised
+  - unsupervised
 * Python
 * data analist
