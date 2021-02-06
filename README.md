@@ -50,3 +50,10 @@ How to initialize github project
 - [x] git init
 - [ ] git remote
 - [ ] git branch
+
+
+--------python
+def add(a,b):
+print("The addition of  and b is:")
+add(3,4)
+-------------
