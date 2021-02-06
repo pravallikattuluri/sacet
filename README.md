@@ -38,6 +38,8 @@ Sno | Name | Collage
 
 :smiley:
 :kissing_closed_eyes:
+:joy:
+:sunglasses:
 
 
 How to initialize github project
