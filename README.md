@@ -20,6 +20,7 @@ Thak u
      - types
 * Python
 * data analist
+_________
 ## Frameworks
 1. django
 2. flask
