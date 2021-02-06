@@ -20,7 +20,7 @@ Thak u
      - types
 * Python
 * data analist
-##Frameworks
+## Frameworks
 1. django
 2. flask
 3. bootle
