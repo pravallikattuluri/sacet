@@ -38,3 +38,10 @@ Sno | Name | Collage
 
 :smiley:
 :kissing_closed_eyes:
+
+
+How to initialize github project
+- [ ] git add .
+- [x] git init
+- [ ] git remote
+- [ ] git branch
